@@ -6,6 +6,7 @@ Here are libraries that still need to be ported for Swift 3:
 * [Pager](https://github.com/lucoceano/Pager/issues/23)
 * [RPLoadingAnimation](https://github.com/naoyashiga/RPLoadingAnimation)
 * [AudioPlayer](https://github.com/delannoyk/AudioPlayer/issues/70)
+* [Anchorman](https://github.com/mergesort/Anchorman/issues/6)
 
 ## Objective-C -> Swift
 

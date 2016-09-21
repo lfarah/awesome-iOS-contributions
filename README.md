@@ -12,3 +12,4 @@ Here are libraries that still need to be ported for Swift 3:
 ## Bug fixes
 
 ## New Features
+* [Pager](https://github.com/lucoceano/Pager/issues/22)

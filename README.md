@@ -10,6 +10,7 @@ Here are libraries that still need to be ported for Swift 3:
 * [Colors](https://github.com/icodeforlove/Colors/issues/5)
 * [CocoaMultipeer](https://github.com/manavgabhawala/CocoaMultipeer)
 * [SwiftBox](https://github.com/joshaber/SwiftBox/issues/24)
+* [JMCBeaconManager](https://github.com/izotx/JMCBeaconManager)
 
 ## Objective-C -> Swift
 

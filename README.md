@@ -8,6 +8,7 @@ Here are libraries that still need to be ported for Swift 3:
 * [AudioPlayer](https://github.com/delannoyk/AudioPlayer/issues/70)
 * [Anchorman](https://github.com/mergesort/Anchorman/issues/6)
 * [Colors](https://github.com/icodeforlove/Colors/issues/5)
+* [CocoaMultipeer](https://github.com/manavgabhawala/CocoaMultipeer)
 
 ## Objective-C -> Swift
 

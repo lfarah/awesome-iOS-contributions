@@ -11,6 +11,7 @@ Here are libraries that still need to be ported for Swift 3:
 * [CocoaMultipeer](https://github.com/manavgabhawala/CocoaMultipeer)
 * [SwiftBox](https://github.com/joshaber/SwiftBox/issues/24)
 * [JMCBeaconManager](https://github.com/izotx/JMCBeaconManager)
+* [CircleProgressView](https://github.com/CardinalNow/iOS-CircleProgressView/issues/36)
 
 ## Objective-C -> Swift
 

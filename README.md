@@ -12,6 +12,7 @@ Here are libraries that still need to be ported for Swift 3:
 * [SwiftBox](https://github.com/joshaber/SwiftBox/issues/24)
 * [JMCBeaconManager](https://github.com/izotx/JMCBeaconManager)
 * [CircleProgressView](https://github.com/CardinalNow/iOS-CircleProgressView/issues/36)
+* [Swift-AI](https://github.com/collinhundley/Swift-AI/issues/58#issuecomment-249375977)
 
 ## Objective-C -> Swift
 

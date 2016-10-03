@@ -20,6 +20,7 @@ Here are libraries that still need to be ported for Swift 3:
 
 ## New Features
 * [Pager](https://github.com/lucoceano/Pager/issues/22)
+* [Pager](https://github.com/lucoceano/Pager/issues/27)
 * [DatePickerDialog](https://github.com/squimer/DatePickerDialog-iOS-Swift/issues/12)
 
 ## CocoaPods
